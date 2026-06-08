@@ -1,6 +1,0 @@
-{
-  "name": "Programmers Point",
-  "description": "A LeetCode-style coding challenge platform with live problem compilation, scoreboard, and profile customization.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
